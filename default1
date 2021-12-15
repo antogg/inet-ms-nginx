@@ -19,9 +19,6 @@
 # Default server configuration
 #
 
-# Test Comment
-# Testing git
-# testing git again
 server {
 	listen 80 default_server;
 	listen [::]:80 default_server;
